@@ -1,4 +1,4 @@
-# 👋 Hi!
+# 👋 Hai!
 
 <p align="center" width="100%">
  <img src="https://media1.tenor.com/m/jNKlDReUZbwAAAAd/konosuba-kazuma.gif" alt="Konosuba Kazuma Wink GIF" width="1000">
